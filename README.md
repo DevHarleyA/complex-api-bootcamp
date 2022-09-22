@@ -1,4 +1,14 @@
-# 📊 Project: Complex API 
+# National Park Generator
+Are you planning a road trip? Use this application to find a random national park in a US state/territory of your choice! When the user inputs a state/territory using the drop down menu, the app will generate one of the state parks with a photo and description!
+
+![complex-api-pic](https://user-images.githubusercontent.com/101942628/191632835-b05b9d2e-2028-4e41-add8-4f951dc37018.png)
+
+## How It's Made
+
+**Tech Used:** HTML5, CSS3, JavaScript, National Parks API
+
+# Project Prompt
+## 📊 Project: Complex API 
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 
